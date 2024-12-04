@@ -28,8 +28,8 @@ Welcome to my GitHub profile! I'm a passionate student of Web Development, eager
 
 ## Top Repositories
 
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=reponame&theme=radical)](https://github.com/samiclaros/wdd231)
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=reponame&theme=radical)](https://github.com/samiclaros/wdd131)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=samiclaros&repo=reponame&theme=radical)](https://github.com/samiclaros/wdd231)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=samiclaros&repo=reponame&theme=radical)](https://github.com/samiclaros/wdd131)
 
 ## Connect with Me
 

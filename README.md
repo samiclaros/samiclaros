@@ -33,8 +33,8 @@ Welcome to my GitHub profile! I'm a passionate student of Web Development, eager
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/samuel-claros-garcia/)
-[![Facebook](https://img.shields.io/badge/Facebook-YourName-blue)](https://www.facebook.com/samuel.clarosgarcia/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel-Claros-Garcia-blue)](https://www.linkedin.com/in/samuel-claros-garcia/)
+[![Facebook](https://img.shields.io/badge/Facebook-Samuel-Claros-Garcia-blue)](https://www.facebook.com/samuel.clarosgarcia/)
 
 
 ---
